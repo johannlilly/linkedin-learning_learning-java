@@ -34,3 +34,9 @@ public class Demo {
 	dir
 
 */
+// run the program
+/*
+
+	java Demo
+
+*/
